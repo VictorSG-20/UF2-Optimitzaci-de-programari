@@ -70,7 +70,18 @@ Si el porcentaje es del 100% se ha ejecutado todo el codigo surante las pruebas
 Si es menor significa que algunas partes no se han ejecutado  
 Es posible realizar la cobertura tanto desde el IDE como desde un servicio web apropiado
 
+## Calidad
+Para lograr una medicion de calidad de un producto necesitamos realizar pruebas 
 
+### Calidad del proceso/producto (QA/QC) 
+ **QA** es un conjunto de actividades para garanitzar la calidad del proceso de desarrollo de los productos  
+ **QC** Conjunto de actividades para arantizar la calidad de los productos
+ 
+### Factores de calidad
+**Operación del producto:** Corrección, Fiabilidad, eficiencia, seguridad y Facilidad de uso  
+**Revisión del producto:** Mantenibilidad, Flexibilidad y Facilidad de prueba  
+**Transición del producto:** Portabilidad, Reusabilidad y Interoperactividad
+ 
 
 
  
