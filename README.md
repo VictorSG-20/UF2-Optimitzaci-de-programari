@@ -49,6 +49,11 @@ En las pruebas de caja blanca seguimos la siguiente estrategia:
 - Pruebas de compatibilidad
 - Pruebas de portabilidad  
 
+### Mecanismos de pruebas
+**Manual** Mediante pruebas realizadas por personal de la empresa o externo.
+**Automático** Mediante software que ejecuta código de forma automatizada y compara los resultados obtenidos   
+y los resultados esperados.
+
 
 
 
