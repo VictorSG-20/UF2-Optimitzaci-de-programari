@@ -54,6 +54,22 @@ En las pruebas de caja blanca seguimos la siguiente estrategia:
 **Automático** Mediante software que ejecuta código de forma automatizada y compara los resultados obtenidos   
 y los resultados esperados.
 
+## Integración
+Hay 4 formas de integración: la Big bang, la descendente, Ascendente y continua.
+
+### Servidores de integración continua:
+- Jenkins
+- Bamboo
+- TravisCI
+- CircleCI
+
+### Cobertura de Codigo
+Indica el porcentaje de codigo que ha sido ejecutado durante las pruebas  
+Suele ser aconsejable que el porcentaje sea cercano al 100%  
+Si el porcentaje es del 100% se ha ejecutado todo el codigo surante las pruebas  
+Si es menor significa que algunas partes no se han ejecutado  
+Es posible realizar la cobertura tanto desde el IDE como desde un servicio web apropiado
+
 
 
 
