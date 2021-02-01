@@ -15,8 +15,8 @@ codigo fuente de la aplicacion sin tener en cuenta su funcionalidad.
 resultado este acorde a los parametros introducidos, por lo tanto no nos interesa tanto el codigo, si no el   
 funcionamiento del programa.  
 **Caja blaca:** En este caso nos fijamos mas en el códio fuente y la manera en que este se ejecuta. Son pruebas  
-dode comprobamos la estructura del programa sin importar la finalidad de este.
-
+dode comprobamos la estructura del programa sin importar la finalidad de este.  
+<img src="http://jamj2000.github.io/entornosdesarrollo/3/assets/caja_blanca-caja_negra.png" width="250" height="300" />
 
 
 
